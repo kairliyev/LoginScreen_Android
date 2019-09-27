@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginScreen_Android</string>
+    <string name="empty_email_error_message">Email cannot be blank</string>
+    <string name="invalid_email_error_message">Please Enter a valid email address</string>
+    <string name="empty_password_error_message">Password cannot be empty</string>
+    <string name="login_failure">Login failed</string>
+</resources>
